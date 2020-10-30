@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Oct 29 13:22:56 2020
+# Process ID: 10464
+# Current directory: C:/FPGA_prj/UART_controller/UART_controller.runs/synth_1
+# Command line: vivado.exe -log UART_controller.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source UART_controller.tcl
+# Log file: C:/FPGA_prj/UART_controller/UART_controller.runs/synth_1/UART_controller.vds
+# Journal file: C:/FPGA_prj/UART_controller/UART_controller.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source UART_controller.tcl -notrace

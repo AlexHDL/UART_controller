@@ -1,0 +1,10 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/FPGA_prj/UART_controller/UART_controller.srcs/sim_1/imports/UART_controller_files/UART_controller_tb.vhd,1603096200,vhdl,,,,uart_controller_tb,,,,,,,,
+C:/FPGA_prj/UART_controller/UART_controller.srcs/sources_1/imports/UART_controller_files/UART.vhd,1602928478,vhdl,,,,uart,,,,,,,,
+C:/FPGA_prj/UART_controller/UART_controller.srcs/sources_1/imports/UART_controller_files/UART_controller.vhd,1602927979,vhdl,,,,uart_controller,,,,,,,,
+C:/FPGA_prj/UART_controller/UART_controller.srcs/sources_1/imports/UART_controller_files/UART_rx.vhd,1603959798,vhdl,,,,uart_rx,,,,,,,,
+C:/FPGA_prj/UART_controller/UART_controller.srcs/sources_1/imports/UART_controller_files/UART_tx.vhd,1602927836,vhdl,,,,uart_tx,,,,,,,,
+C:/FPGA_prj/UART_controller/UART_controller.srcs/sources_1/imports/UART_controller_files/button_debounce.vhd,1603961120,vhdl,,,,button_debounce,,,,,,,,

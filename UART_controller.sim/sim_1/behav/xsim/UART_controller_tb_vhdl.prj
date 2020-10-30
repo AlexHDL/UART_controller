@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../UART_controller.srcs/sources_1/imports/UART_controller_files/UART.vhd" \
+"../../../../UART_controller.srcs/sources_1/imports/UART_controller_files/UART_controller.vhd" \
+"../../../../UART_controller.srcs/sources_1/imports/UART_controller_files/UART_rx.vhd" \
+"../../../../UART_controller.srcs/sources_1/imports/UART_controller_files/UART_tx.vhd" \
+"../../../../UART_controller.srcs/sources_1/imports/UART_controller_files/button_debounce.vhd" \
+"../../../../UART_controller.srcs/sim_1/imports/UART_controller_files/UART_controller_tb.vhd" \
+
+# Do not sort compile order
+nosort
